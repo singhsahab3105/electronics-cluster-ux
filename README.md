@@ -66,3 +66,27 @@ Error State:
 
 3. Commitment Without Payment  
    High-trust decisions should not feel transactional.
+
+## Wireframes Overview
+
+Low-fidelity wireframes were created to focus on
+user flow, trust-building, and decision clarity
+rather than visual design.
+
+The screens demonstrate how a founder moves from
+initial intent to a confident commitment without
+being forced into a transaction.
+
+## Wireframe Fidelity Note
+
+The wireframes are intentionally kept low-fidelity
+to highlight UX thinking and flow decisions.
+Visual polish and UI styling were not the focus
+of this exercise.
+
+## Personal Observation
+
+This approach is based on observing that early-stage
+hardware founders struggle more with coordination
+and accountability than with finding individual skills.
+
